@@ -2,7 +2,6 @@ package com.beliveinyourself;
 
 public class ConditionStatement {
 
-	private static final boolean False = false;
 
 	public static void main(String[] args) {
 	// Check If-else
