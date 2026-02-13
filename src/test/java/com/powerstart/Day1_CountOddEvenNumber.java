@@ -5,6 +5,7 @@ public class Day1_CountOddEvenNumber {
 		int number = 123465;
 		int countOdd=0;
 		int countEven=0;
+		
 		while (number != 0) {
 			int lastDigit=number%10;
 			number = number/10;
