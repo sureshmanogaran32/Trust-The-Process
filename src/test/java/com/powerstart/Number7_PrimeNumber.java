@@ -1,6 +1,6 @@
 package com.powerstart;
 
-public class Day2_PrimeNumber {
+public class Number7_PrimeNumber {
 	//Number should be > 1
 	//number should be divisible by 1 and by same number
 	//19 -> divisible by 1 and 19

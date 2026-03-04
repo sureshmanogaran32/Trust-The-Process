@@ -1,6 +1,6 @@
 package com.powerstart;
 
-public class Day2_ArmstrongNumber {
+public class Number10_ArmstrongNumber {
 	public static int armsstrongNo(int n) {
 		int result =0; int sum =0;
 		while(n!=0) {

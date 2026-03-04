@@ -1,6 +1,6 @@
 package com.powerstart;
 
-public class Day1_SumofDigits {
+public class Number9_SumofDigits {
 	public static int calculateSum(int number) {
 		int sum =0;
 		while(number != 0) {

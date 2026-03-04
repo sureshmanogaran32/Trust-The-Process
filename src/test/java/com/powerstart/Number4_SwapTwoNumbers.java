@@ -1,6 +1,6 @@
 package com.powerstart;
 
-public class Day1_SwapTwoNumbers {
+public class Number4_SwapTwoNumbers {
 	public static void swapNumber(int a, int b) {
 		System.out.println("Before swap: a = " + a + ", b = " + b);
 		int temp=a;

@@ -1,6 +1,6 @@
 package com.powerstart;
 
-public class Day2_Factorial {
+public class Number6_Factorial {
 	public static int factorial(int n) {
 		int result=1;
 		if(n<0) {

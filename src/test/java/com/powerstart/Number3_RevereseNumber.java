@@ -1,6 +1,6 @@
 package com.powerstart;
 
-public class Day1_RevereseNumber {
+public class Number3_RevereseNumber {
 	public static int reverse(int number) {
 		int reverse= 0;
 		while(number != 0) {

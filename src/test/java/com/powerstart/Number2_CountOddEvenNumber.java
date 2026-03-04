@@ -1,6 +1,6 @@
 package com.powerstart;
 
-public class Day1_CountOddEvenNumber {
+public class Number2_CountOddEvenNumber {
     public static void main(String[] args) {
 		int number = 123465;
 		int countOdd=0;

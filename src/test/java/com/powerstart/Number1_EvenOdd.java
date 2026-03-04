@@ -1,6 +1,6 @@
 package com.powerstart;
 
-public class Day1_EvenOdd {
+public class Number1_EvenOdd {
 	public static void numberStatus(int number) {
 		if(number%2==0) {
 			System.out.println("Given Number is "+number+" : Even");
